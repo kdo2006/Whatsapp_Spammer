@@ -19,8 +19,8 @@ I have Made Whatsapp Spammer. This tool made  for educational, if you do any une
  How to install Whatsapp Spammer in Termux ?
  👉 Follow the Command
  
- apt-get update
- apt-get upgrade
+ apt update
+ apt upgrade
  apt install git
  apt install pip 
  apt install python3
