@@ -9,16 +9,16 @@ print(ascii_banner)
 
 
 print("\n")
-print("Enter Target Number with Country code:",end=""),
+print("Enter Target Number with Country code:"),
 number=(input())
 
 # Asks for user to type a message
 print("\n")
-print("Enter message:",end=""),
+print("Enter message:"),
 message=str(input())
 
 
-print("Enter massage amount:",end=""),
+print("Enter massage amount:"),
 tim = int(input())
 
 for i in range(tim):
