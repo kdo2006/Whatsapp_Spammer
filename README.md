@@ -10,8 +10,8 @@ I have Made Whatsapp Spammer. This tool made  for educational, if you do any une
  sudo apt install git
  sudo apt install pip3
  sudo apt install python3
- git clone 
- cd Whatsapp Spammer
+ git clone https://github.com/kdo2006/Whatsapp_Spammer
+ cd Whatsapp_Spammer
  pip3 install -r requirements.txt
  python spam.py
 
@@ -24,7 +24,7 @@ I have Made Whatsapp Spammer. This tool made  for educational, if you do any une
  apt install git
  apt install pip 
  apt install python3
- git clone 
- cd Whatsapp Spammer
+ git clone https://github.com/kdo2006/Whatsapp_Spammer
+ cd Whatsapp_Spammer
  pip install -r requirements.txt
  python spam.py
